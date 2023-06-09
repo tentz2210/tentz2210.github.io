@@ -8,7 +8,7 @@ window.CONTEXT_OPTIONS = {
     'preferWebGl2': true,
     'powerPreference': "default"
 };
-window.SCRIPTS = [ 130360871, 130360806, 130238093, 130360873, 133169380, 135421416, 137486947 ];
+window.SCRIPTS = [ 130360871, 130360806, 130238093, 130360873, 133169380, 135421416, 137486947, 138220060, 138220319, 138240797, 138241014 ];
 window.CONFIG_FILENAME = "config.json";
 window.INPUT_SETTINGS = {
     useKeyboard: true,
@@ -18,5 +18,4 @@ window.INPUT_SETTINGS = {
 };
 pc.script.legacy = false;
 window.PRELOAD_MODULES = [
-    {'moduleName' : 'Ammo', 'glueUrl' : 'files/assets/129812480/1/ammo.wasm.js', 'wasmUrl' : 'files/assets/129812481/1/ammo.wasm.wasm', 'fallbackUrl' : 'files/assets/129812479/1/ammo.js', 'preload' : true},
 ];
